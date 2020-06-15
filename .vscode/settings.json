@@ -1,0 +1,6 @@
+{
+    "editor.codeActionsOnSave": null,
+    "terminal.integrated.shell.windows": "cmd.exe",
+    "python.pythonPath": "C:\\Users\\User\\anaconda3\\envs\\sentement\\python.exe",  
+    "python.venvPath": "C:\\ProgramData\\Anaconda3\\envs\\sentement",
+}
