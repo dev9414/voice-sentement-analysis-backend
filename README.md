@@ -1,8 +1,8 @@
 # voice-sentement-analysis-backend
 
-for installing dependency 
+## installing dependency 
 
-## use command : npm i/npm install 
+ use command : npm i/npm install 
 
 this command will install all dependency for thisproject
 
